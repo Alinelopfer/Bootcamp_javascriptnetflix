@@ -1,0 +1,13 @@
+@media screen and (max-width:867px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width:867px) {
+     .sinopse {
+        width: 50%;
+        text-align: justify;
+    }
+}
